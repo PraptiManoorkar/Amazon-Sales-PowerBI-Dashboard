@@ -21,17 +21,13 @@ Interactive Power BI dashboard analyzing 178K+ Amazon sales transactions to iden
 - **DAX Measures**: Profit Margin, YoY Growth, Total Orders
 
 ## 📁 Files
-- `[Uploading Amazon_Sales_Dashboard.pbix…]` - Main Power BI file
-- `[Sample_Ecommerce_Data_File.xlsx](https://github.com/user-attachments/files/27973079/Sample_Ecommerce_Data_File.xlsx)
-'- 500 row sample dataset
-- `<img width="1920" height="1080" alt="PowerBI_dashboard" src="https://github.com/user-attachments/assets/43b2ac5b-033c-4cf5-80f2-40733d3d3add" />
-` - Dashboard preview
+- `Amazon_Sales_Dashboard.pbix` - Main Power BI file
+- `sample_data.csv` - 500 row sample dataset
+- `dashboard_screenshot.png` - Dashboard preview
 
 ## 🚀 How to Use
 1. Download `Amazon_Sales_Dashboard.pbix`
-2. Open [Uploading Sample_Ecommerce_Data_File.xlsx…]()
-![Uploading PowerBI_dashboard.png…]()
-in Power BI Desktop
+2. Open in Power BI Desktop
 3. Use slicers to filter by Market or Category
 
 ## 📌 Note
